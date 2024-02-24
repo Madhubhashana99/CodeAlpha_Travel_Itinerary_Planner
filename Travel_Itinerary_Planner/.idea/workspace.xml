@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9878197e-08ab-4bca-9fe3-b525ff444338" name="Changes" comment="" />
+    <list default="true" id="9878197e-08ab-4bca-9fe3-b525ff444338" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TravelItaneraryPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TravelItaneraryPlanner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2covgfL19ywsKwbZoHp0iUaxnuL" />
   <component name="ProjectViewState">
@@ -17,6 +33,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/My projects/CodeAlpha_Travel_Itinerary_Planner/Travel_Itinerary_Planner",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "E:/My projects/Travel_Itinerary_Planner/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -30,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708790860533</updated>
       <workItem from="1708790862339" duration="59000" />
+      <workItem from="1708790972273" duration="2130000" />
     </task>
     <servers />
   </component>
